@@ -20,6 +20,13 @@ a:visited {text-decoration: none; color: #333333;
 </head>
 
 <body>
+<?php
+	require_once './layout.inc';
+
+	$base = new Layout;
+
+	$base->link = './style.css';
+?>
 
 <h1> <p align=center>로그인</p> </h1>
 <form method='post' action='logincheck.php'>
