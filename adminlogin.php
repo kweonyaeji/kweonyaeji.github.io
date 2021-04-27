@@ -20,7 +20,7 @@ a:visited {text-decoration: none; color: #333333;
 
 <body>
 
-<h1> <p align=center>관리자 로그인</p> </h1>
+<h1> <p align=center>관리자 로그인입니다</p> </h1>
 <form method='post' action='logincheck.php'>
 	<table align=center border=0 cellspacing=0 width=500 bordercolordark=white bordercolorlight=#999999>
 		<tr>
